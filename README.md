@@ -1,2 +1,2 @@
-# HTML-server
-Is a server HTML
+# Technologies
+Is a site made with HTML
